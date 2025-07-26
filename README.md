@@ -49,6 +49,6 @@ A complete HR data analysis project using **Power BI** and **Python** (Pandas, S
 
 ## 🧠 Author
 
-**Kritika Naidu**  
+**Harshil Mistry**  
 Data Analyst | Python | Power BI | SQL  
-[LinkedIn](https://linkedin.com/in/kritika-naidu23) | [GitHub](https://github.com/kritika23102001)
+[LinkedIn](https://linkedin.com/in/harshil-mistry-) | [GitHub](https://github.com/Harshil-Mistry027)
