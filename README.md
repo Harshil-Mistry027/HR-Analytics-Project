@@ -15,26 +15,34 @@ A complete HR data analysis project using **Power BI** and **Python** (Pandas, S
 
 | File | Description |
 |------|-------------|
-| Power BI dashboard with 5 interactive pages |
-|Python-based EDA and visualizations |
-|HR dataset used for analysis |
-|Full project summary |
-|Optional images of the dashboard pages |
+| `HR_Analysis_Dashboard.pbix` | Power BI dashboard with 5 interactive pages |
+| `HR_Analysis.ipynb` | Python-based EDA and visualizations |
+| `HR_Dataset.xlsx` | HR dataset used for analysis |
+| `README.md` | Full project summary |
+| `images/` | Screenshots of the dashboard pages |
 
 ---
 
 ## 📈 Dashboard Pages
 
-1. **Overview** – KPIs, Gender/Marital Stats, Manager Breakdown
-2. **Demographics** – Age, Tenure, Citizenship, Race, Department
-3. **Termination Insights** – Attrition by Tenure, Performance, Absenteeism
-4. **Performance & Engagement** – Satisfaction, Engagement, Matrix Heatmap
-5. **Salary & Department** – Funnel, Waterfall, Gauge, Salary Comparison
+### 1. Overview – KPIs, Gender/Marital Stats, Manager Breakdown
+![Overview](images/overview.png)
+
+### 2. Demographics – Age, Tenure, Citizenship, Race, Department
+![Employee Demographics](images/demographics.png)
+
+### 3. Termination Insights – Attrition by Tenure, Performance, Absenteeism
+![Termination Insights](images/termination_insights.png)
+
+### 4. Performance & Engagement – Satisfaction, Engagement, Matrix Heatmap
+![Performance & Engagement](images/performance_engagement.png)
+
+### 5. Salary & Department – Funnel, Waterfall, Gauge, Salary Comparison
+![Salary & Department Analysis](images/salary_department.png)
 
 ---
 
 ## 🔍 Key Insights
-
 - 📉 33.4% employees terminated (Production dept highest)
 - 💬 Engagement correlates positively with Satisfaction (+0.19)
 - 🏆 Admin dept has highest engagement; Executive has lowest satisfaction
@@ -48,7 +56,6 @@ A complete HR data analysis project using **Power BI** and **Python** (Pandas, S
 ---
 
 ## 🧠 Author
-
-**Harshil Mistry**  
-Data Analyst | Python | Power BI | SQL  
+**Harshil Mistry**
+Data Analyst | Python | Power BI | SQL
 [LinkedIn](https://linkedin.com/in/harshil-mistry-) | [GitHub](https://github.com/Harshil-Mistry027)
